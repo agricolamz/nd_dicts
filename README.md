@@ -13,3 +13,5 @@ In this databse we collect database of Nakh-Daghestanian dictionaries. All colle
 * translation_ru
 * translation_en
 * contributor
+
+Here is [an example of such a file](https://github.com/agricolamz/nd_dicts/blob/master/dicts/botlikh_v0.0.1.csv).
